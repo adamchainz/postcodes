@@ -88,6 +88,6 @@ Values have been removed for brevity.
 
 ## API Documentation
 
-You'll find more detailed documentation [over here](http://postcodes.readthedocs.org/en/latest/).
+You'll find more detailed documentation [over here](https://postcodes.readthedocs.io/en/latest/).
 
 © 2012, [Edward Robinson](http://twitter.com/eddrobinson)
